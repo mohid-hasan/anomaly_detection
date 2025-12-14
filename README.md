@@ -74,12 +74,14 @@ License & Contributing
 - Contributions, bug reports, and improvements are welcome via issues and pull requests.
 
 References
-1. Zhida Li and Ljiljana Trajković, “Enhancing Cyber Defense: Using Machine Learning Algorithms for Detection of Network Anomalies,” IEEE SMC, 2023.  
-2. Luiz Felipe Oliveira, Rob Ballantyne, Jano Souza, and Ljiljana Trajković, “Internet Outages During Times of Conflict,” IEEE SMC, 2024.  
-3. Zhida Li, Ana Laura Gonzalez Rios, and Ljiljana Trajković, “Machine Learning for Detecting Anomalies and Intrusions in Communication Networks,” IEEE J‑SAC.  
-4. Zhida Li, CyberDefense GitHub repository: https://github.com/zhida-li/CyberDefense  
-5. RouteViews Project, University of Oregon, RouteViews Archive (accessed 2025).  
-6. Internet Outage Detection and Analysis (IODA), Georgia Tech Internet Intelligence Lab (accessed 2025).
+1.	Z. Li and L. Trajković, “Enhancing cyber defense: using machine learning algorithms for detection of network anomalies,” in Proc. IEEE Int. Conf. Syst., Man, Cybern., 2023.
+2.	L. F. Oliveira, R. Ballantyne, J. Souza, and L. Trajković, “Internet outages during times of conflict,” in Proc. IEEE Int. Conf. Syst., Man, Cybern., 2024.
+3.	Z. Li, A. L. González Ríos, and L. Trajković, “Machine learning for detecting anomalies and intrusions in communication networks,” IEEE J. Sel. Areas Commun.
+4.	Z. Li, “CyberDefense: Machine learning for network anomaly detection,” GitHub repository. [Online]. Available: https://github.com/zhida-li/CyberDefense
+5.	RouteViews Project, “BGP data archive,” University of Oregon. [Online]. Available: http://www.routeviews.org/
+6.	Internet Outage Detection and Analysis (IODA), Georgia Tech Internet Intelligence Lab, “Public dashboard and documentation.” [Online]. Available: https://ioda.inetintel.cc.gatech.edu/
+7.	L. F. Oliveira, “Internet outages during times of conflict (SMC 2024),” GitHub repository. [Online]. Available: https://github.com/luizsoliveira/paper_smc_2024
+8.	H. K. Takhar, L. F. Oliveira, and L. Trajković, “Case study: understanding Internet anomalies,” Simon Fraser University, Vancouver, Canada, 2024.
 
 Contact
 Include maintainer GitHub handle or email here for questions and contributions.
